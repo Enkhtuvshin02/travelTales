@@ -10,7 +10,7 @@
     "socketServer": "node backend/socketServer.js",
     "server:dev": "nodemon backend/server.js",
     "socketServer:dev": "nodemon backend/socketServer.js",
-    "start":"npm run server && npm run socketServer"
+    "start":"npm run server"
   },
   "keywords": [],
   "author": "",
