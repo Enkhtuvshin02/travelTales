@@ -1,0 +1,7 @@
+#signUpDiv{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin:auto;
+    align-items: center;
+}
